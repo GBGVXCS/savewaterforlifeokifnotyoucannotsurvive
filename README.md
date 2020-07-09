@@ -1,2 +1,15 @@
 # p5.play-boilerplate
-Boiler plate for p5.play
+-- create player
+-- create obstacles
+-- water drop image must be loaded
+-- bacteria, sewage, chmicals images must be loaded
+-- background images must be loaded
+-- player moving controls
+-- endless mover script only for the pathway (top to bottom)
+-- random spawning and no of obstacles spawning according to player score 
+-- score increases with time
+-- Time limit for each zone
+-- player life = 100
+-- if player remains in place and seeks for more score, game must end there and restart
+-- If player dies, reasons behind this game must appear. Images of water contamination and their causes.
+-- end
